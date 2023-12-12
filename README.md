@@ -1,12 +1,15 @@
 # lending-status
-_**Training_data_accuray**_ : 0.8333333333333334
-<br>
-**_Test_data_accuray_**: 0.8333333333333334
-<br>
 In this project, I created a program to predict whether to grant or not to grant a loan using a dataset
 <br>
 <br>
 <br>
+_**Training_data_accuray**_ : 0.8333333333333334
+<br>
+**_Test_data_accuray_**: 0.8333333333333334
+<br>
+<br>
+<br>
+
 Technologies:
 <br>
 **sklearn**
