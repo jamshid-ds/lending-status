@@ -3,7 +3,7 @@ In this project, I created a program to predict whether to grant or not to grant
 <br>
 <br>
 <br>
-_**Training_data_accuray**_ : 0.8333333333333334
+_**Training_data_accuray**_ : 0.7986111111111112
 <br>
 **_Test_data_accuray_**: 0.8333333333333334
 <br>
